@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack<br>👯 I’m looking to collaborate on Azure<br>🤝 I’m looking for help with Linux(Ubuntu)<br>🌱 I’m currently learning Javascript<br>☁️ Ask me about AWS<br>⚡️Fun fact a group of butterflies is called a kaleidoscope🦋<br>
+🔭 I’m currently working on Full stack<br>👯 I’m looking to collaborate on Azure<br>🤝 I’m looking for help with Linux(Ubuntu)<br>🌱 I’m currently learning Javascript<br>☁️ Ask me about AWS<br> High Vibrations Only 🙏🏼🤲🏼<br>
 
 
 # 💻 Tech Stack:
